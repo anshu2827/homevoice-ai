@@ -1,0 +1,12 @@
+{
+  "routes": [
+    { "path": "/", "title": "Home Dashboard" },
+    { "path": "/rooms", "title": "Rooms" },
+    { "path": "/devices", "title": "Devices" },
+    { "path": "/voice", "title": "Voice Assistant" },
+    { "path": "/automations", "title": "Automations" },
+    { "path": "/energy", "title": "Energy Monitoring" },
+    { "path": "/activity", "title": "Activity History" },
+    { "path": "/settings", "title": "Settings" }
+  ]
+}
